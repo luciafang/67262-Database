@@ -1,4 +1,4 @@
-# Database Project - Phase 2
+# Social Media User Relationship Modeling
 
 ### Overview
 This repository contains the artifacts for Phase 2 of our database project for the Fall 2023 Database Design course. Our goal is to transform the conceptual model developed in Phase 1 into a relational and physical model to implement a fully functional database system.
@@ -23,3 +23,5 @@ Python Scripts: Utility scripts to interact with the database, implementing user
 /data: Sample data files in CSV format.
 /scripts: Python scripts for executing database queries and operations.
 /documentation: Additional project documentation and user stories.
+
+**Collaborators**: Eun Seok Kim
